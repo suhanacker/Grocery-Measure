@@ -1,0 +1,1 @@
+This tool provides accurate measurements and calculations for various grocery items, simulating the experience of an in-store weighing scale.With intuitive, user-friendly input and real-time data output, it's ideal for stores, home use, or anyone looking to streamline the measurement of grocery items digitally.
